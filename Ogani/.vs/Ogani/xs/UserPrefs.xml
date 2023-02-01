@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{320C438B-BE71-483D-8985-3514117EA629}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ogani.WebUI/Startup.cs">
+    <Files>
+      <File FileName="Ogani.WebUI/Models/DataContext/OganiDbContext.cs" Line="45" Column="1" />
+      <File FileName="Ogani.WebUI/Startup.cs" Line="75" Column="46" />
+      <File FileName="Ogani.WebUI/Models/DataContext/OganiDbSeed.cs" Line="38" Column="1" />
+      <File FileName="Ogani.WebUI/Areas/Admin/Models/ViewModel/SignInModel.cs" Line="7" Column="2" />
+      <File FileName="Ogani.WebUI/Areas/Admin/Controllers/AccountController.cs" Line="92" Column="31" />
+      <File FileName="Ogani.WebUI/Program.cs" Line="16" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ogani" expanded="True">
+            <Node name="Ogani.WebUI" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Models" expanded="True">
+                    <Node name="ViewModel" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="DataContext" expanded="True" />
+                <Node name="Entity" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ogani.WebUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>SignalRIntro/SignalRIntro.csproj</String>
+    <String>UploadExample.WebApp/UploadExample.WebApp.csproj</String>
+  </DisabledProjects>
+</Properties>
